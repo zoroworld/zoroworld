@@ -9,7 +9,11 @@ Planner/Designer/Developer/
 <hr />
 <h3>Project work on</h3>
 <h4>MERN Eccomerce MVC Project</h4>
-<span align="left">Link:</span><span><a  href="https://sangria-kitten-hem.cyclic.cloud/"  target="_blank"> Eccomerce Web App</a></span>
+<span align="left">Link:</span><span><a  href="https://eccom-app-j1v3.vercel.app/"  target="_blank"> Eccomerce Web App</a></span>
+<h4>MERN Eccomerce LMS Project</h4>
+<span align="left">Link:</span><span><a href="https://task-management-pi-taupe.vercel.app/"  target="_blank"> Task management </a></span>
+<h4>MERN Eccomerce MVC Project</h4>
+<span align="left">Link:</span><span><a  href="https://sangria-kitten-hem.cyclic.cloud/"  target="_blank"> Eccomerce Web App</a></span
 
 <hr />
 
