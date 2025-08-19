@@ -1,4 +1,4 @@
-<h1 align="left">Devloper</h1>
+<h1 align="left">Software Developer</h1>
 
 Planner/Designer/Developer/
     
