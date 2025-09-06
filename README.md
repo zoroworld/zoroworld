@@ -5,14 +5,6 @@ Planner/Designer/Developer/
 <h3 align="left">Description</h3>
 <p align="left">I have been working on UI/UX design as a full-stack developer for 3 years, constantly exploring and experimenting with it. My curiosity about project work keeps growing, and I always bring innovative ideas to the table. Throughout my journey, I have faced many challenges while completing projects, but I enjoy building everything from the ground up — from planning, designing, developing, and deploying, to solving real-world problems. My aim is to figure out system designs on my own and keep exploring more. I am also learning High-Level Design (HLD) concepts along with Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI) to strengthen my problem-solving and system-building skills.</p>
 
-## 🚀 Contributions
-
-![Full-Stack Development](https://img.shields.io/badge/Code-Full--Stack--Development-blue?style=for-the-badge&logo=visualstudiocode)
-![UI/UX Design](https://img.shields.io/badge/Design-UI%2FUX-orange?style=for-the-badge&logo=figma)
-![System Design](https://img.shields.io/badge/System%20Design-HLD-green?style=for-the-badge&logo=architecture)
-![Machine Learning](https://img.shields.io/badge/Learning-ML-yellow?style=for-the-badge&logo=python)
-![Deep Learning](https://img.shields.io/badge/Learning-DL-red?style=for-the-badge&logo=tensorflow)
-![Artificial Intelligence](https://img.shields.io/badge/Learning-AI-purple?style=for-the-badge&logo=openaigym)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
