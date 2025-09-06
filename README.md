@@ -51,7 +51,8 @@ Planner/Designer/Developer/
 
 
 
-<h4>Frameworks, Platforms and Libraries</h4>
+<h4>Work on Frameworks, Platforms and Libraries</h4>
+
 <span><img src="https://img.shields.io/badge/-Django-%F5788D?style=for-the-badge&logo=django&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></span>
@@ -66,8 +67,13 @@ Planner/Designer/Developer/
 <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></span>
 <span><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></span>
 <span><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%2361DAFB" /></span>
+<span><img src="https://img.shields.io/badge/numpy-%23CB3837.svg?style=for-the-badge&logo=numpy&logoColor=white" /></span>
+
 
 <hr />
+
+
 
 <h3>OS:</h3>
 <span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></span>
