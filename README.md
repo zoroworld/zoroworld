@@ -7,12 +7,6 @@ Planner/Designer/Developer/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
 <hr />
-<h3>Project work on</h3>
-<h4>MERN Eccomerce MVC Project</h4>
-<span align="left">Link:</span><span><a  href="https://eccom-app-j1v3.vercel.app/"  target="_blank"> Eccomerce Web App</a></span>
-<h4>MERN Eccomerce LMS Project</h4>
-<span align="left">Link:</span><span><a href="https://task-management-pi-taupe.vercel.app/"  target="_blank"> Task management </a></span>
-<hr />
 
 <h3 align="left">See my UI and UX design and many more... </h3>
 <span align="left"> <a href="www.linkedin.com/in/manishdv" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
