@@ -12,7 +12,7 @@ Planner/Designer/Developer/
 <span align="left"> <a href="https://leetcode.com/u/Codeloot/" target="_blank"><img  src="https://img.shields.io/badge/leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white&display=inline-block" /></a></span>
 
 <h3 align="left">See my UI and UX design and many more... </h3>
-<span align="left"> <a href="www.linkedin.com/in/manishdv" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
+<span align="left"> <a href="https://linkedin.com/in/manishdv" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
 <span align="left"> <a href="https://www.instagram.com/firewheel1996/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
 <span align="left"> <a href="https://getportfolio.info/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style=for-the-badge&logo=instagram&logoColor=white&display=inline-block" /> </a></span>
 
