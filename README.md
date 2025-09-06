@@ -80,5 +80,8 @@ Planner/Designer/Developer/
 
 <hr />
 
-
+<h3>AI:</h3>
+<span><img src="https://img.shields.io/badge/langchain-3DDC84?style=for-the-badge&logo=langchain&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/langgraph-0078D6?style=for-the-badge&logo=langgraph&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/langsmith-23117AC9?style=for-the-badge&logo=langsmith&logoColor=white" /></span>
 
