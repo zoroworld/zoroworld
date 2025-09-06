@@ -5,8 +5,11 @@ Planner/Designer/Developer/
 <h3 align="left">Description</h3>
 <p align="left">I have been working on UI/UX design as a full-stack developer for 3 years and playing with it. My curiosity about project work keeps growing, and I always bring some good ideas to the desk. I face many challenges to complete the project. All coding projects are built from the ground up, from planning, designing, developing, and deploying all the way to solving real-life problems. My aim is to figure out all System designs myself and explore more.</p>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
 <hr />
+<span align="left"> <a href="https://www.kaggle.com/manishpanda321" target="_blank"><img  src="https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white&display=inline-block" /></a></span>
+<span align="left"> <a href="https://leetcode.com/u/Codeloot/" target="_blank"><img  src="https://img.shields.io/badge/leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white&display=inline-block" /></a></span>
 
 <h3 align="left">See my UI and UX design and many more... </h3>
 <span align="left"> <a href="www.linkedin.com/in/manishdv" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&display=inline-block" /></a></span>
@@ -74,7 +77,9 @@ Planner/Designer/Developer/
 
 <hr />
 
-<h3>AI:</h3>
+<h3>AI/ML/DL</h3>
+<span><img src="https://img.shields.io/badge/Ml-3DDC84?style=for-the-badge&logo=ML&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/DL-3DDC84?style=for-the-badge&logo=DL&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/langchain-3DDC84?style=for-the-badge&logo=langchain&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/langgraph-0078D6?style=for-the-badge&logo=langgraph&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/langsmith-23117AC9?style=for-the-badge&logo=langsmith&logoColor=white" /></span>
