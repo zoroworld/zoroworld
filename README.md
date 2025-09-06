@@ -31,7 +31,7 @@ Planner/Designer/Developer/
 
 <hr />
 
-<h3>Depeloper</h3>
+<h3>Developer</h3>
 
 <h4>Programming Language:</h4>
 <span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></span>
