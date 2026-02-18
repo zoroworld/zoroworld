@@ -9,7 +9,7 @@ Planner/Designer/Developer/
 - **GitHub:** [donmanish](https://github.com/donmanish)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish profile views" />
+  <a href="https://github.com/donmanish" target="_blank"><img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish profile views" /></a>
 </p>
 
 <hr />
