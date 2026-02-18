@@ -5,7 +5,8 @@ Planner/Designer/Developer/
 <h3 align="left">Description</h3>
 <p align="left">I have been working on UI/UX design as a full-stack developer for 3 years, constantly exploring and experimenting with it. My curiosity about project work keeps growing, and I always bring innovative ideas to the table. Throughout my journey, I have faced many challenges while completing projects, but I enjoy building everything from the ground up — from planning, designing, developing, and deploying, to solving real-world problems. My aim is to figure out system designs on my own and keep exploring more. I am also learning High-Level Design (HLD) concepts along with Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI) to strengthen my problem-solving and system-building skills.</p>
 
-
+<h3 align="left">others Github link </h3>
+- https://github.com/donmanish
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmanish&label=Profile%20views&color=0e75b6&style=flat" alt="donmanish" /> </p>
 <hr />
